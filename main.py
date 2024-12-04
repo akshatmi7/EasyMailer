@@ -37,8 +37,8 @@ def send_email(to_email, subject, body, attachment_path, sender_email, sender_pa
         print(f"Failed to send email to {to_email}: {e}")
 
 # Sender details
-sender_email = "mishratanu2222@gmail.com"
-sender_password = "hlke lwmo gfhq rjzu"
+sender_email = "your-email"
+sender_password = "your-password"
 
 # Email details
 recipients = ["akshatmishra2222@gmail.com", "ashishmpi00012@gmail.com"]
